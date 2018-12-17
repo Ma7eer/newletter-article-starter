@@ -1,0 +1,22 @@
+{
+  "name": "newsletter",
+  "version": "1.0.0",
+  "description": "a node newsletter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ma7eer/newletter-article-starter.git"
+  },
+  "author": "Maher Alkendi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ma7eer/newletter-article-starter/issues"
+  },
+  "homepage": "https://github.com/Ma7eer/newletter-article-starter#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
